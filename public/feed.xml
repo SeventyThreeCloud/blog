@@ -1,0 +1,34 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Blog | Siddu Hussain</title>
+      <link>https://musing.vercel.app/blog</link>
+      <description>My personal blog where I scribble my thoughts</description>
+      <language>en-us</language>
+      <managingEditor>sidduhussain@outlook.com (Siddu Hussain)</managingEditor>
+      <webMaster>sidduhussain@outlook.com (Siddu Hussain)</webMaster>
+      <lastBuildDate>Tue, 12 Jul 2022 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://musing.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://musing.vercel.app/blog/spotify-refresh-token</guid>
+    <title>How to get the Spotify Refresh Token</title>
+    <link>https://musing.vercel.app/blog/spotify-refresh-token</link>
+    <description>Getting the Spotify Refresh Token doesn&#39;t need to be a hassle any longer.</description>
+    <pubDate>Tue, 12 Jul 2022 00:00:00 GMT</pubDate>
+    <author>sidduhussain@outlook.com (Siddu Hussain)</author>
+    <category>spotify</category><category>hacks</category>
+  </item>
+
+  <item>
+    <guid>https://musing.vercel.app/blog/sample-post</guid>
+    <title>Sample Post</title>
+    <link>https://musing.vercel.app/blog/sample-post</link>
+    <description>Sample Post</description>
+    <pubDate>Sun, 05 Jun 2022 00:00:00 GMT</pubDate>
+    <author>sidduhussain@outlook.com (Siddu Hussain)</author>
+    <category>tech</category><category>apple</category><category>tag</category><category>sample</category>
+  </item>
+
+    </channel>
+  </rss>
