@@ -47,8 +47,8 @@ export default function AuthorLayout({ children, frontMatter }) {
             <div className="flex flex-col pt-3">
               <a
                 className="rounded-full border px-8 py-2 text-center text-sm font-light text-gray-700 transition-colors hover:border-[#1DA1F2] hover:bg-[#1DA1F2] hover:text-white hover:shadow dark:text-white"
-                href="https://twitter.com/messages/compose?recipient_id=4302974298&text=Hey Parth"
-                data-screen-name="@_ParthDesai_"
+                href="https://twitter.com/messages/compose?recipient_id=4302974298&text=Hey Siddu"
+                data-screen-name="@_SidduHussain_"
                 target="_blank"
                 rel="noreferrer noopener"
               >
@@ -67,12 +67,12 @@ export default function AuthorLayout({ children, frontMatter }) {
                 animationDelay={300}
                 animationDuration={3000}
               >
-                {text1} Currently, I am focused on building data pipelines and automating them at{' '}
+                {text1} Currently, I am focused on building data driven systems and automating them at{' '}
                 <Link
-                  href={'https://www.accenture.com/in-en'}
+                  href={'https://in.indeed.com/?r=us'}
                   className="special-underline no-underline hover:text-gray-100 dark:text-gray-100 hover:dark:text-gray-100"
                 >
-                  Accenture
+                  indeed
                 </Link>
               </RoughNotation>
             </p>
@@ -161,7 +161,7 @@ export default function AuthorLayout({ children, frontMatter }) {
               </Link>{' '}
               or{' '}
               <Link
-                href={'https://api.whatsapp.com/send?phone=916358190818&text=hi'}
+                href={'https://api.whatsapp.com/send?phone=919951111901&text=hi'}
                 className="special-underline no-underline hover:text-gray-100 dark:text-gray-100 hover:dark:text-gray-100"
               >
                 Whatsapp

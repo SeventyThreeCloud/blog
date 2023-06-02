@@ -15,18 +15,18 @@ const Contact = () => {
             <ContactLink
               href="mailto:sidduhussain@outlook.com"
               title="gmail"
-              icon="desaiparth2000"
+              icon="HussainSiddu2000"
             />
             <ContactLink href="https://github.com/pycoder2000" title="github" icon="pycoder2000" />
             <ContactLink
-              href="https://twitter.com/_ParthDesai_"
+              href="https://twitter.com/_SidduHussain_"
               title="twitter"
-              icon="_ParthDesai_"
+              icon="_SidduHussain_"
             />
             <ContactLink
-              href="https://www.linkedin.com/in/parth-desai-2bb1b0160/"
+              href="https://www.linkedin.com/in/Siddu-Hussain-2bb1b0160/"
               title="linkedin"
-              icon="parthdesai"
+              icon="SidduHussain"
             />
           </ul>
         </div>

@@ -1,23 +1,23 @@
 const experienceData = [
   {
-    title: 'Data Engineering Intern',
-    company: 'Accenture',
-    location: 'Ahmedabad, India',
-    range: 'January 2022 - May 2022',
-    url: 'https://www.accenture.com/gr-en/about/consulting-index',
+    title: 'Senior Software Engineer',
+    company: 'indeed',
+    location: 'Hyderabad, India',
+    range: 'June 2021 - Present',
+    url: 'https://in.indeed.com/?r=us',
     text1:
-      'Helped with the digital transformation of BOAT by working on their platform called ByteETL.',
+      'Helped with the digital transformation of indeed by implemeting Servicenow for Asset Managment',
     text2:
-      'Built the encryption component for the platform using Scala and Spark which included 2 encoding functionalities : ENCRYPT and HASH.',
+      'Buildiing automation process for maintaining SAAS system based in Data Driven Triggers',
     text3:
-      'Created JSON wrappers for the encryption components and automated and triggered the pipelines to run at specific intervals using CronJob.',
+      'Transitioning from Software Egnineer to Data Scientist',
   },
   {
-    title: 'Software Engineer Analytics',
-    company: 'HOPS Healthcare',
-    location: 'Ahmedabad, India',
+    title: 'ServiceNow Developer',
+    company: 'Cognizant(Healthcare Client)',
+    location: 'Hyderabad, India',
     range: 'March 2021 - June 2021',
-    url: 'https://hops.healthcare/',
+    url: 'https://www.cognizant.com/in/en',
     text1:
       'Guided by Mr. Vivek Patel, to create a pipeline that extracts essential information from informal conversations.',
     text2:

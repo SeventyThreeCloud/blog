@@ -4,7 +4,7 @@ const siteMetadata = {
   headerTitle: 'Mere Musings',
   description: 'My personal blog where I scribble my thoughts',
   siteIntroduction : 'I am a Software Engineer who is an aspiring the Data Scientist. In my free time, I like developing side projects and learning new technologies.',
-  snippets: 'Reuseable code snippets collected by Parth',
+  snippets: 'Reuseable code snippets collected by Siddu',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://musing.vercel.app',
@@ -14,9 +14,9 @@ const siteMetadata = {
   socialBanner: '/static/images/twitter-card.png',
   email: 'sidduhussain@outlook.com',
   github: 'https://github.com/pycoder2000',
-  twitter: 'https://twitter.com/_ParthDesai_',
-  linkedin: 'https://www.linkedin.com/in/parth-desai-2bb1b0160/',
-  website: 'https://parthdesai.vercel.app',
+  twitter: 'https://twitter.com/_SidduHussain_',
+  linkedin: 'https://www.linkedin.com/in/Siddu-Hussain-2bb1b0160/',
+  website: 'https://SidduHussain.vercel.app',
   locale: 'en-US',
   analytics: {
     plausibleDataDomain: '', // e.g. tailwind-nextjs-starter-blog.vercel.app
@@ -47,7 +47,7 @@ const siteMetadata = {
     },
   },
   socialAccount: {
-    twitter: '_ParthDesai_',
+    twitter: '_SidduHussain_',
   },
 }
 
